@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\bin\Debug\CodiceFiscale.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\bin\Debug\CodiceFiscale.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\bin\Debug\CodiceFiscale.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\obj\Debug\CodiceFiscale.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\obj\Debug\CodiceFiscale.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\obj\Debug\CodiceFiscale.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\obj\Debug\CodiceFiscale.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\obj\Debug\CodiceFiscale.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\bin\Debug\cod_catasto.txt
+C:\Users\Administrator\Documents\SharpDevelop Projects\CodiceFiscale\CodiceFiscale\obj\Debug\CodiceFiscale.Inverso.resources
